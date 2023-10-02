@@ -5,6 +5,7 @@ public class test1 {
 	public static void main(String[] args) {
 
 		   String name = "김태희";
+		   
 		      int score = 75; 
 		      char grade = ' ';
 		      
