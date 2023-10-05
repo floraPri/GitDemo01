@@ -4,7 +4,7 @@ public class test1 {
 
 	public static void main(String[] args) {
 
-		   String name = "뉴 네오 김태희";
+		   String name = "부랜치A";
 		   
 		      int score = 75; 
 		      char grade = ' ';
@@ -25,10 +25,10 @@ public class test1 {
 		         grade = 'F';
 		      }
 		      else { 
-		         System.out.println("잘못된 점수입니다.");
+		         System.out.println("�옒紐삳맂 �젏�닔�엯�땲�떎.");
 		      }
 		      
-		      System.out.println("이름 : "+ name +"\t점수 : "+score+"\t학점 : "+grade );
+		      System.out.println("�씠由� : "+ name +"\t�젏�닔 : "+score+"\t�븰�젏 : "+grade );
 		   		
 	}
 }
